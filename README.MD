@@ -31,8 +31,6 @@ employs a hybrid architecture that prioritizes both technical performance and in
 
 ### Technical Stack
 
-Diagram
-
 **Dependencies & Versions:**
 
 - **ChromaDB 1.0.12**: Modern vector database with excellent Python integration
@@ -198,6 +196,8 @@ The Gradio interface employs careful typographic choices to create an atmosphere
 - **Search Testing**: Built-in functionality validation
 - **Conversation Starters**: Curated example queries showcasing system capabilities
 - **Configuration Display**: Transparent system parameter visibility
+
+![Diagram](./screenshots/ui.png)
 
 ### Responsive Components
 
